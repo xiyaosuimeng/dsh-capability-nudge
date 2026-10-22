@@ -51,3 +51,18 @@ Place the plugin directory in your DSH plugins folder and enable it in
 
 - Requires DSH with the `agent/pre-step` hook.
 - No network access, no files written.
+
+## Provenance & Takedown
+
+This repository is a collection of utilities and notes accumulated over time.
+Some code or ideas may share ancestry with projects we have read, used, or been
+inspired by — inevitably so, and we cannot always reconstruct the exact
+provenance of every line. Where a source is known, it is credited
+(see Acknowledgements).
+
+If you believe material here reproduces your work without attribution or
+permission, please open an issue or contact the maintainer. We will verify the
+claim and then either add proper attribution, obtain a license, or remove the
+affected material promptly. We would rather take it down than misattribute it.
+
+- Issues: <https://github.com/xiyaosuimeng/dsh-capability-nudge/issues>
