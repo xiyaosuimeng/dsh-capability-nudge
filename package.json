@@ -1,0 +1,9 @@
+{
+  "name": "@local/capability-nudge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "能力自动提醒：每步对用户消息匹配 abil_core.json 的触发词，命中就注入一条短提醒（只在命中时注入，不碰前缀缓存）",
+  "exports": { ".": "./index.js" },
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } }
+}

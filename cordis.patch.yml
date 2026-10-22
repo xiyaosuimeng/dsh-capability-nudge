@@ -1,0 +1,5 @@
+# capability-nudge —— 能力自动提醒（2026-10-21）
+# 新增行必须用 insert（顶层 - id 是覆盖语义，新增会静默跳过）。
+- insert:
+    - id: capability-nudge
+      name: '@local/capability-nudge'
